@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-:computer: **Ingeniero de Automatizacion en Inetum España**
+:computer: **Ingeniero de Automatizacion en Inetum España**/n
 :pencil: **Consumidor de contenido educativo**
-:eyeglases: **Gamer en formacion**
+:eyeglasses: **Gamer en formacion**
 :oncoming_automobile: **Fan de accidentes automovilisticos**
 :family: **Todos con vida gracias a Dios**
 
